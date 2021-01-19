@@ -1,0 +1,2 @@
+class: info.magnolia.rest.service.node.definition.ConfiguredNodeEndpointDefinition
+implementationClass: dariomodule.web.endpoint.v1.AdminEndpoint

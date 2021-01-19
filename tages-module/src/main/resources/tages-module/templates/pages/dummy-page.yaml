@@ -1,0 +1,10 @@
+templateScript: /tages-module/templates/pages/dummy-page.ftl
+renderType: freemarker
+visible: true
+dialog: tages-module:pages/dummy-page-properties
+areas:
+  main:
+    renderType: freemarker
+    availableComponents:
+      dummy-component:
+        id: tages-module:components/dummy-component
